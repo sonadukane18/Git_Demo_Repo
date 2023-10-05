@@ -1,0 +1,2 @@
+Heyy, hello this is my first git file ..
+I pushed it through the git locally into the github.
